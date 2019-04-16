@@ -4,6 +4,62 @@ output:
   html_document: default
 ---
 
-# Paixiao Construction
+# Materials and Tools List
 
-According to [@paixiao], the paixiao is a traditional chinese pan flute constructed from bamboo. It is tuned diatonically and the hole on top of each pipe is cut at an angle or with notches which allows for pitch manipulation. Construction of a PVC pan flute can be reviewed at the video at the following address: [https://www.youtube.com/watch?v=8dZYfWRkBMM] (https://www.youtube.com/watch?v=8dZYfWRkBMM). While the paixiao can contain many different pipes, students will be directed to create a simple paixiao containing three to five pipes. Each pipe will be capped with a PVC 
+This section describes the materials and tools needed to construct a basic PVC didgeridoo and a basic PVC paixiao.
+
+## PVC Didgeridoo
+
+
+
+
+```r
+knitr::kable(
+  head(didgeridooMaterialsDF), booktabs = TRUE,
+  caption = 'Materials for constructing a PVC Didgeridoo.'
+)
+```
+
+
+
+Table: (\#tab:unnamed-chunk-3)Materials for constructing a PVC Didgeridoo.
+
+|x                     |
+|:---------------------|
+|PVC pipe              |
+|PVC pipe              |
+|PVC socket cap        |
+|PVC trap adapter      |
+|PVC Reducing Coupling |
+|PVC Elbow Fitting     |
+
+
+```r
+knitr::kable(
+  head(toolsDF), booktabs = TRUE,
+  caption = 'Tools for constructing a PVC Didgeridoo.'
+)
+```
+
+
+
+Table: (\#tab:unnamed-chunk-4)Tools for constructing a PVC Didgeridoo.
+
+|x                                        |
+|:----------------------------------------|
+|PVC Reamer                               |
+|Hacksaw                                  |
+|Digital Tuner, multi-instrument, clip-on |
+|Permanent markers, multicolor            |
+|Safety glasses                           |
+|1                                        |
+
+
+PVC Reamer	1 5/8"
+Hacksaw	6"
+Digital Tuner	Multi-instrument, clip-on
+Permanent Markers	Multi-color, 24-ct
+Safety Glasses	12-ct, one-size
+
+
+## PVC Paixiao
