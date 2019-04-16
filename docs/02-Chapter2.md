@@ -25,7 +25,7 @@ To begin, join the reducing coupling (A) to the pipe (B).
 
 Next, join the pipe (B) to the trap adapter base (C).
 <div class="figure">
-<img src="img/constructionB.png" alt="PVC didgeridoo construction, part B" width="186" />
+<img src="img/constructionB.png" alt="PVC didgeridoo construction, part B" width="700" />
 <p class="caption">(\#fig:constructionB)PVC didgeridoo construction, part B</p>
 </div>
 
