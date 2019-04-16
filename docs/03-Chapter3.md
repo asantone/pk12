@@ -15,17 +15,14 @@ This section describes the materials and tools needed to construct a basic PVC d
 
 Table: (\#tab:unnamed-chunk-3)Materials for constructing a PVC Didgeridoo.
 
-Materials               Specifications (Imperial)   Quantity (Imperial) 
-----------------------  --------------------------  --------------------
-PVC pipe                0.5, Schedule 40            10                  
-PVC pipe                1.5, Schedule 40            10                  
-PVC socket cap          0.5, Schedule 40            1                   
-PVC trap adapter        1.5, Schedule 40            1                   
-PVC Reducing Coupling   3.0x1.5, Schedule 40        1                   
-PVC Elbow Fitting       1.5, Schedule 40            1                   
-Sandpaper	Medium Grit   Medium Grit                 1                   
-Sandpaper	Coarse Grit   Coarse Grit                 1                   
-Alcohol Prep Pads       -                           -                   
+Materials               Specifications (Imperial)   Quantity or Length (Imperial) 
+----------------------  --------------------------  ------------------------------
+PVC pipe                1.5", Schedule 40           10'                           
+PVC trap adapter        1.5", Schedule 40           1                             
+PVC Reducing Coupling   3.0"x1.5", Schedule 40      1                             
+Sandpaper	Medium Grit   Medium Grit                 as needed                     
+Sandpaper	Coarse Grit   Coarse Grit                 as needed                     
+Alcohol Prep Pads       -                           as needed                     
 
 
 Table: (\#tab:unnamed-chunk-4)Tools for constructing a PVC Didgeridoo.
