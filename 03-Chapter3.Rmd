@@ -45,19 +45,25 @@ names(didgeridooMaterialsDF) <- c("Materials", "Specifications (Imperial)", "Qua
 
 toolNames<-c( "PVC Reamer", 
               "Hacksaw", 
-              "Digital Tuner, multi-instrument, clip-on", 
+              "Digital Tuner", 
               "Permanent markers, multicolor",
               "Safety glasses"
               )
-toolQty<-c( "1", 
-              "1", 
-              "1", 
-              "any",
-              "1 per student"
+toolSpecs<-c( "> 1.5\"", 
+              "small", 
+              "multi-instrument, clip-on or phone app", 
+              "any color",
+              "polycarbonate, ANSI Z87.1-2015 or similar"
               )
+toolQty<-c( "1", 
+            "1", 
+            "1", 
+            "any",
+            "1 pair per student"
+            )
 
-toolsDF<-data.frame(toolNames, toolQty)
-names(toolsDF) <- c("Name", "Quantity (Imperial)")
+toolsDF<-data.frame(toolNames, toolSpecs, toolQty)
+names(toolsDF) <- c("Name", "Specifications (Imperial)", "Quantity (Imperial)")
 ```
 
 ```{r, echo=FALSE}
