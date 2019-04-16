@@ -19,37 +19,28 @@ This section describes the materials and tools needed to construct a basic PVC d
 
 ```{r echo = FALSE}
 didgeridooMaterials<-c( "PVC pipe", 
-                        "PVC pipe", 
-                        "PVC socket cap", 
                         "PVC trap adapter",
                         "PVC Reducing Coupling",
-                        "PVC Elbow Fitting",
                         "Sandpaper	Medium Grit",
                         "Sandpaper	Coarse Grit",
                         "Alcohol Prep Pads"
                         )
-didgeridooSpecsImperial<-c( "0.5, Schedule 40", 
-                        "1.5, Schedule 40", 
-                        "0.5, Schedule 40", 
-                        "1.5, Schedule 40",
-                        "3.0x1.5, Schedule 40",
-                        "1.5, Schedule 40",
+didgeridooSpecsImperial<-c( "1.5\", Schedule 40", 
+                        "1.5\", Schedule 40",
+                        "3.0\"x1.5\", Schedule 40",
                         "Medium Grit",
                         "Coarse Grit",
                         "-"
                         )
-didgeridooQtyImperial<-c( "10", 
-                        "10", 
-                        "1", 
+didgeridooQtyImperial<-c( "10\'", 
                         "1",
                         "1",
-                        "1",
-                        "1",
-                        "1",
-                        "-"
+                        "as needed",
+                        "as needed",
+                        "as needed"
                         )
 didgeridooMaterialsDF<-data.frame(didgeridooMaterials,didgeridooSpecsImperial,didgeridooQtyImperial)
-names(didgeridooMaterialsDF) <- c("Materials", "Specifications (Imperial)", "Quantity (Imperial)")
+names(didgeridooMaterialsDF) <- c("Materials", "Specifications (Imperial)", "Quantity or Length (Imperial)")
 
 
 toolNames<-c( "PVC Reamer", 
