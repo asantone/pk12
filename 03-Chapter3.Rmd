@@ -69,14 +69,14 @@ toolsDF<-c(toolNames, toolQty)
 names(toolsDF) <- c("Name", "Quantity (Imperial)")
 ```
 
-```{r}
+```{r, echo=FALSE}
 knitr::kable(
   didgeridooMaterialsDF, booktabs = TRUE,
   caption = 'Materials for constructing a PVC Didgeridoo.'
 )
 ```
 
-```{r}
+```{r, echo=FALSE}
 knitr::kable(
   toolsDF, booktabs = TRUE,
   caption = 'Tools for constructing a PVC Didgeridoo.'
