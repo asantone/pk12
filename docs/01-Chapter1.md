@@ -7,7 +7,8 @@ output:
 
 # Learning Goals and Success
 
-The learning goals for this activity are for students to:
+The learning goals for this activity are for students to: 
+
 - Develop an awareness of the science and history of the didgeridoo and the paixiao
 - Practice hands-on construction methods to create custom, playable PVC musical instruments
 - Develop an awareness of long-term trends in climate data
@@ -15,5 +16,11 @@ The learning goals for this activity are for students to:
 - Perform the custom musical piece using the didgeridoo and/or the paixiao 
 
 Success will be determined by:
+
 - Creation of playable PVC musical instruments
 - Creation and performance of a musical piece inspired directly by trends in global climate data
+
+<div class="figure">
+<img src="img/didgeridoo.jpg" alt="Didgeridoo." width="360" />
+<p class="caption">(\#fig:unnamed-chunk-2)Didgeridoo.</p>
+</div>

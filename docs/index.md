@@ -25,8 +25,4 @@ biblio-style: apalike
 
 This activity guides groups of students through a brief study of the history and construction of either a didgeridoo, the world's oldest wind instrument, or a paixiao, a chinese pan flute. Students will work with polyvinyl chloride (PVC) pipe and PVC-cutting tools to design and create a playable musical instrument which will be used by students to compose a custom song related to climate data such as atmospheric CO$_{2}$ concentration or global temperature anomalies. In this way, the sonification of climate data will be accomplished with a student musical chorus. The activity will conclude with a group jam session with participants invited to provide percussion for the wind section. An attempt will be made to have expert musicians join the program via teleconference as a guest speaker to provide instruction and background information.
 
-<div class="figure">
-<img src="img/didgeridoo.jpg" alt="Didgeridoo." width="360" />
-<p class="caption">(\#fig:unnamed-chunk-3)Didgeridoo.</p>
-</div>
 
