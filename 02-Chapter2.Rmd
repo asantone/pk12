@@ -9,6 +9,7 @@ if(!knitr:::is_html_output())
   options("width"=56)
   knitr::opts_chunk$set(tidy.opts=list(width.cutoff=56, indent = 2), tidy = TRUE)
   knitr::opts_chunk$set(fig.pos = 'H')
+  knitr::opts_chunk$set(echo = TRUE, fig.align="center")
 }
 ```
 # Didgeridoo Construction
@@ -22,6 +23,23 @@ The didgeridoo will be constructed from three PVC components seen in Figure \@re
 ```{r construction, echo = FALSE, fig.cap = 'PVC didgeridoo construction'}
 knitr::include_graphics("img/construction.png")
 ```
+
+To begin, join the reducing coupling (A) to the pipe (B).
+```{r constructionA, echo = FALSE, fig.cap = 'PVC didgeridoo construction, part A'}
+knitr::include_graphics("img/constructionA.png")
+```
+
+Next, join the pipe (B) to the trap adapter base (C).
+```{r constructionB, echo = FALSE, fig.cap = 'PVC didgeridoo construction, part B'}
+knitr::include_graphics("img/constructionB.png")
+```
+
+Finally, join the trap adapter base (C) to the trap adapter nut (D) by carefully threading the nut onto the base.
+```{r constructionC, echo = FALSE, fig.cap = 'PVC didgeridoo construction, part C'}
+knitr::include_graphics("img/constructionC.png")
+```
+
+Your PVC didgeridoo should now be fully assembled. Wipe down the trap adapter with an alcohol pad before attempting to play!
 
 ## Standard Form
 The didgeridoo can be created in many forms. The standard form, which is the focus of this activity, results in a simple straight form.
