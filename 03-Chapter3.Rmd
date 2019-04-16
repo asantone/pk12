@@ -56,8 +56,8 @@ toolQty<-c( "1",
               "1 per student"
               )
 
-toolsDF<-c(toolNames, toolQty)
-names(toolsDF) <- data.frame("Name", "Quantity (Imperial)")
+toolsDF<-data.frame(toolNames, toolQty)
+names(toolsDF) <- c("Name", "Quantity (Imperial)")
 ```
 
 ```{r, echo=FALSE}
