@@ -35,12 +35,4 @@ Digital Tuner                   multi-instrument, clip-on or phone app      1
 Permanent markers, multicolor   any color                                   any                 
 Safety glasses                  polycarbonate, ANSI Z87.1-2015 or similar   1 pair per student  
 
-
-PVC Reamer	1 5/8"
-Hacksaw	6"
-Digital Tuner	Multi-instrument, clip-on
-Permanent Markers	Multi-color, 24-ct
-Safety Glasses	12-ct, one-size
-
-
 ## PVC Paixiao
