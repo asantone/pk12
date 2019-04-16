@@ -48,7 +48,7 @@ didgeridooQtyImperial<-c( "10",
                         "1",
                         "-"
                         )
-didgeridooMaterialsDF<-c(didgeridooMaterials,didgeridooSpecsImperial,didgeridooQtyImperial)
+didgeridooMaterialsDF<-data.frame(didgeridooMaterials,didgeridooSpecsImperial,didgeridooQtyImperial)
 names(didgeridooMaterialsDF) <- c("Materials", "Specifications (Imperial)", "Quantity (Imperial)")
 
 
@@ -66,7 +66,7 @@ toolQty<-c( "1",
               )
 
 toolsDF<-c(toolNames, toolQty)
-names(toolsDF) <- c("Name", "Quantity (Imperial)")
+names(toolsDF) <- data.frame("Name", "Quantity (Imperial)")
 ```
 
 ```{r, echo=FALSE}
