@@ -27,13 +27,13 @@ Alcohol Prep Pads       -                           as needed
 
 Table: (\#tab:unnamed-chunk-4)Tools for constructing a PVC Didgeridoo.
 
-Name                                       Quantity (Imperial) 
------------------------------------------  --------------------
-PVC Reamer                                 1                   
-Hacksaw                                    1                   
-Digital Tuner, multi-instrument, clip-on   1                   
-Permanent markers, multicolor              any                 
-Safety glasses                             1 per student       
+Name                            Specifications (Imperial)                   Quantity (Imperial) 
+------------------------------  ------------------------------------------  --------------------
+PVC Reamer                      > 1.5"                                      1                   
+Hacksaw                         small                                       1                   
+Digital Tuner                   multi-instrument, clip-on or phone app      1                   
+Permanent markers, multicolor   any color                                   any                 
+Safety glasses                  polycarbonate, ANSI Z87.1-2015 or similar   1 pair per student  
 
 
 PVC Reamer	1 5/8"
