@@ -13,15 +13,6 @@ This section describes the materials and tools needed to construct a basic PVC d
 
 
 
-```r
-knitr::kable(
-  didgeridooMaterialsDF, booktabs = TRUE,
-  caption = 'Materials for constructing a PVC Didgeridoo.'
-)
-```
-
-
-
 Table: (\#tab:unnamed-chunk-3)Materials for constructing a PVC Didgeridoo.
 
 |x                     |
@@ -53,15 +44,6 @@ Table: (\#tab:unnamed-chunk-3)Materials for constructing a PVC Didgeridoo.
 |1                     |
 |1                     |
 |-                     |
-
-
-```r
-knitr::kable(
-  toolsDF, booktabs = TRUE,
-  caption = 'Tools for constructing a PVC Didgeridoo.'
-)
-```
-
 
 
 Table: (\#tab:unnamed-chunk-4)Tools for constructing a PVC Didgeridoo.
