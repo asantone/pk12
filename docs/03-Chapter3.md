@@ -15,7 +15,7 @@ This section describes the materials and tools needed to construct a basic PVC d
 
 ```r
 knitr::kable(
-  head(didgeridooMaterialsDF), booktabs = TRUE,
+  didgeridooMaterialsDF, booktabs = TRUE,
   caption = 'Materials for constructing a PVC Didgeridoo.'
 )
 ```
@@ -32,11 +32,32 @@ Table: (\#tab:unnamed-chunk-3)Materials for constructing a PVC Didgeridoo.
 |PVC trap adapter      |
 |PVC Reducing Coupling |
 |PVC Elbow Fitting     |
+|Sandpaper	Medium Grit |
+|Sandpaper	Coarse Grit |
+|Alcohol Prep Pads     |
+|0.5, Schedule 40      |
+|1.5, Schedule 40      |
+|0.5, Schedule 40      |
+|1.5, Schedule 40      |
+|3.0x1.5, Schedule 40  |
+|1.5, Schedule 40      |
+|Medium Grit           |
+|Coarse Grit           |
+|-                     |
+|10                    |
+|10                    |
+|1                     |
+|1                     |
+|1                     |
+|1                     |
+|1                     |
+|1                     |
+|-                     |
 
 
 ```r
 knitr::kable(
-  head(toolsDF), booktabs = TRUE,
+  toolsDF, booktabs = TRUE,
   caption = 'Tools for constructing a PVC Didgeridoo.'
 )
 ```
@@ -53,6 +74,10 @@ Table: (\#tab:unnamed-chunk-4)Tools for constructing a PVC Didgeridoo.
 |Permanent markers, multicolor            |
 |Safety glasses                           |
 |1                                        |
+|1                                        |
+|1                                        |
+|any                                      |
+|1 per student                            |
 
 
 PVC Reamer	1 5/8"
