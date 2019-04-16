@@ -17,6 +17,26 @@ The didgeridoo will be constructed from three PVC components seen in Figure \@re
 <p class="caption">(\#fig:construction)PVC didgeridoo construction</p>
 </div>
 
+To begin, join the reducing coupling (A) to the pipe (B).
+<div class="figure">
+<img src="img/constructionA.png" alt="PVC didgeridoo construction, part A" width="490" />
+<p class="caption">(\#fig:constructionA)PVC didgeridoo construction, part A</p>
+</div>
+
+Next, join the pipe (B) to the trap adapter base (C).
+<div class="figure">
+<img src="img/constructionB.png" alt="PVC didgeridoo construction, part B" width="186" />
+<p class="caption">(\#fig:constructionB)PVC didgeridoo construction, part B</p>
+</div>
+
+Finally, join the trap adapter base (C) to the trap adapter nut (D) by carefully threading the nut onto the base.
+<div class="figure">
+<img src="img/constructionC.png" alt="PVC didgeridoo construction, part C" width="840" />
+<p class="caption">(\#fig:constructionC)PVC didgeridoo construction, part C</p>
+</div>
+
+Your PVC didgeridoo should now be fully assembled. Wipe down the trap adapter with an alcohol pad before attempting to play!
+
 ## Standard Form
 The didgeridoo can be created in many forms. The standard form, which is the focus of this activity, results in a simple straight form.
 
