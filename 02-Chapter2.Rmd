@@ -25,17 +25,17 @@ knitr::include_graphics("img/construction.png")
 ```
 
 To begin, join the reducing coupling (A) to the pipe (B).
-```{r constructionA, echo = FALSE, fig.cap = 'PVC didgeridoo construction, part A'}
+```{r constructionA, echo = FALSE, fig.cap = 'PVC didgeridoo construction, part A', fig.width=6}
 knitr::include_graphics("img/constructionA.png")
 ```
 
 Next, join the pipe (B) to the trap adapter base (C).
-```{r constructionB, echo = FALSE, fig.cap = 'PVC didgeridoo construction, part B'}
+```{r constructionB, echo = FALSE, fig.cap = 'PVC didgeridoo construction, part B', fig.width=6}
 knitr::include_graphics("img/constructionB.png")
 ```
 
 Finally, join the trap adapter base (C) to the trap adapter nut (D) by carefully threading the nut onto the base.
-```{r constructionC, echo = FALSE, fig.cap = 'PVC didgeridoo construction, part C'}
+```{r constructionC, echo = FALSE, fig.cap = 'PVC didgeridoo construction, part C', fig.width=6}
 knitr::include_graphics("img/constructionC.png")
 ```
 
