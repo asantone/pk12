@@ -49,6 +49,8 @@ didgeridooQtyImperial<-c( "10",
                         "-"
                         )
 didgeridooMaterialsDF<-c(didgeridooMaterials,didgeridooSpecsImperial,didgeridooQtyImperial)
+names(didgeridooMaterialsDF) <- c("Materials", "Specifications (Imperial)", "Quantity (Imperial)")
+
 
 toolNames<-c( "PVC Reamer", 
               "Hacksaw", 
@@ -64,18 +66,19 @@ toolQty<-c( "1",
               )
 
 toolsDF<-c(toolNames, toolQty)
+names(toolsDF) <- c("Name", "Quantity (Imperial)")
 ```
 
 ```{r}
 knitr::kable(
-  head(didgeridooMaterialsDF), booktabs = TRUE,
+  didgeridooMaterialsDF, booktabs = TRUE,
   caption = 'Materials for constructing a PVC Didgeridoo.'
 )
 ```
 
 ```{r}
 knitr::kable(
-  head(toolsDF), booktabs = TRUE,
+  toolsDF, booktabs = TRUE,
   caption = 'Tools for constructing a PVC Didgeridoo.'
 )
 ```
