@@ -80,12 +80,4 @@ knitr::kable(
 )
 ```
 
-
-PVC Reamer	1 5/8"
-Hacksaw	6"
-Digital Tuner	Multi-instrument, clip-on
-Permanent Markers	Multi-color, 24-ct
-Safety Glasses	12-ct, one-size
-
-
 ## PVC Paixiao
