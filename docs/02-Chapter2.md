@@ -60,7 +60,7 @@ Alternative forms can result in more compact, twisted variations. These forms re
 </div>
 
 ## Tuning
-According to @tuning, the length of a didgeridoo for a particular desired frequency (also called the "key" of the didgeridoo) can be found using the formula $l = c/4f$ where l is the length, c is the speed of sound, and f is the desired frequency (or key). We'll do our calculations using the metric system so, as an example, let's find the length of a didgeridoo that will play in the key of E (82.41Hz). We can do this by solving for the equation $l = 344/(4*82.41)$. We use 344 m/s because that is the speed of sound in dry air at a temperature of 20 degrees C. Solving this gives us a didgeridoo length of $344/329.64$ or about 1.04 meters. It's good practice to start with a didgeridoo that is longer than needed and then you can cut and sand the PVC pipe to the desired length and key. See below for a data table of keys, frequencies (Hz), and estimated pipe lengths (mm). 
+According to @tuning, the length of a didgeridoo for a particular desired frequency (also called the "key" of the didgeridoo) can be found using the formula $l = c/4f$ where $l$ is the length in meters, $c$ is the speed of sound in meters per second, and $f$ is the desired frequency in Hertz (or key). We'll do our calculations using the metric system so, as an example, let's find the length of a didgeridoo that will play in the key of E (82.41Hz). We can do this by solving for the equation $l = 344/(4*82.41)$. We use 344 m/s because that is the speed of sound in dry air at a temperature of 20 degrees C. Solving this gives us a didgeridoo length of $344/329.64$ or about 1.04 meters. It's good practice to start with a didgeridoo that is longer than needed and then you can cut and sand the PVC pipe to the desired length and key. See below for a data table of keys, frequencies (Hz), and estimated pipe lengths (mm). To estimate the key for a didgeridoo of a known length, solve the formula for $f$ instead to get $f = c/4l$ where $l$ is again the length of the didgeridoo in meters.  
 
 
 Table: (\#tab:unnamed-chunk-2)Musical key, frequency, and estimated didgeridoo length.
@@ -96,6 +96,19 @@ C#             138.59           620
 D              146.83           586
 D#             155.56           553
 E              164.81           522
+
+## Decoration
+According to @decoration, the didgeridoo may be decorated. Many designs are inspired by nature and traditional pigments contributed an array of earth-tone hues to the instrument. See Figures \@ref(fig:patternsA) and \@ref(fig:patternsB) for some examples. 
+
+<div class="figure">
+<img src="img/assembled.png" alt="Didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain." width="50%" />
+<p class="caption">(\#fig:patternsA)Didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain.</p>
+</div>
+
+<div class="figure">
+<img src="img/assembled.png" alt="More didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain." width="50%" />
+<p class="caption">(\#fig:patternsB)More didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain.</p>
+</div>
 
 
 
