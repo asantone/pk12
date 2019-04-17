@@ -6,7 +6,7 @@ bookdown::gitbook:
       position: fixed
     download: ["pdf", "docx"]
     toc:
-      collapse: subsection
+      collapse: section
       scroll_highlight: yes
       before: |
         <li><a href="https://pk12.mit.edu/" target="blank">MIT pk12 Action Group</a></li>
