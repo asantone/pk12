@@ -60,4 +60,42 @@ Alternative forms can result in more compact, twisted variations. These forms re
 </div>
 
 ## Tuning
-TODO
+According to @tuning, the length of a didgeridoo for a particular desired frequency (also called the "key" of the didgeridoo) can be found using the formula $l = c/4f$ where l is the length, c is the speed of sound, and f is the desired frequency (or key). We'll do our calculations using the metric system so, as an example, let's find the length of a didgeridoo that will play in the key of E (82.41Hz). We can do this by solving for the equation $l = 344/(4*82.41)$. We use 344 m/s because that is the speed of sound in dry air at a temperature of 20 degrees C. Solving this gives us a didgeridoo length of $344/329.64$ or about 1.04 meters. It's good practice to start with a didgeridoo that is longer than needed and then you can cut and sand the PVC pipe to the desired length and key. See below for a data table of keys, frequencies (Hz), and estimated pipe lengths (mm). 
+
+
+Table: (\#tab:unnamed-chunk-2)Musical key, frequency, and estimated didgeridoo length.
+
+Key    Frequency (Hz)   Length (mm)
+----  ---------------  ------------
+C               32.70          2630
+C#              34.65          2482
+D               36.71          2342
+D#              38.89          2211
+E               41.20          2087
+F               43.66          1970
+F#              46.25          1859
+G               49.00          1755
+G#              51.91          1657
+A               55.00          1564
+A#              58.27          1475
+B               61.74          1393
+C               65.40          1315
+C#              69.30          1241
+D               73.42          1171
+D#              77.78          1106
+E               82.41          1044
+F               87.31           985
+F#              92.50           930
+G               98.00           878
+G#             103.82           828
+A              110.00           782
+A#             116.54           771
+B              123.47           696
+C              130.81           657
+C#             138.59           620
+D              146.83           586
+D#             155.56           553
+E              164.81           522
+
+
+
