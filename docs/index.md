@@ -1,8 +1,9 @@
 --- 
 title: "Didgeridata"
 author: "Adam Santone"
-date: "2019-04-16"
+date: "2019-04-17"
 output:
+  pdf_document: default
   html_document: default
   word_document: default
 description: An MIT pk12 Action Group Lesson for the 2019 MIT STEAM Camp, Hong Kong
