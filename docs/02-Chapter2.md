@@ -100,13 +100,13 @@ E              164.81           522
 ## Decoration
 According to @decoration, the didgeridoo may be decorated. Many designs are inspired by nature and traditional pigments contributed an array of earth-tone hues to the instrument. See Figures \@ref(fig:patternsA) and \@ref(fig:patternsB) for some examples. 
 
-<div class="figure">
-<img src="img/assembled.png" alt="Didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain." width="50%" />
+<div class="figure" style="text-align: center">
+<img src="img/patternsA.jpg" alt="Didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain." width="50%" />
 <p class="caption">(\#fig:patternsA)Didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain.</p>
 </div>
 
-<div class="figure">
-<img src="img/assembled.png" alt="More didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain." width="50%" />
+<div class="figure" style="text-align: center">
+<img src="img/patternsB.jpg" alt="More didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain." width="50%" />
 <p class="caption">(\#fig:patternsB)More didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain.</p>
 </div>
 
