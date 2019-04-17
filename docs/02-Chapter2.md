@@ -13,7 +13,7 @@ TODO
 ## History and Significance
 
 ## Science
-@timbres notes that skilled didgeridoo musicians can adjust their throat anatomy to produce a very wide range of [https://en.wikipedia.org/wiki/Timbre](timbres).
+@timbres sums up an article by @tarnopolsky and notes that skilled didgeridoo musicians can adjust their throat anatomy to produce a very wide range of [timbres](https://en.wikipedia.org/wiki/Timbre). @fletcher provides a summary of the physics of this simple instrument. 
 
 ## Construction
 The didgeridoo will be constructed from three PVC components seen in Figure \@ref(fig:construction): a reducing coupling (A), a pipe (B) , and a trap adapter (C and D). The length (L) of the pipe is variable and determines the key of the instrument. The mouthpiece is in two pieces. Part D will need to be threaded onto Part C. All other fittings should be pressed on until secure. No adhesives are used in this construction.
