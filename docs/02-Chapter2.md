@@ -11,6 +11,12 @@ output:
 TODO
 
 ## History and Significance
+The didgeridoo, or yidaki, is an ancient wind instrument believed to have originated among the indigenous people of northern Australia over 40,000 years ago [@harris]. This instrument is traditionally used for cermonial functions and also for recreational and entertainment purposes. Ramin Yazdanpanah is a modern didgeridoo musician who plays with the [Maharajah Flamenco Trio](https://www.mftrio.com/), a group that incorporates global sounds into their music. 
+
+<div class="figure" style="text-align: center">
+<img src="img/yaz.jpg" alt="Ramin Yazdanpanah of the Maharajah Flamenco Trio from the official video for &quot;Dariya.&quot; Roughcut Productions, 2017." width="50%" />
+<p class="caption">(\#fig:yaz)Ramin Yazdanpanah of the Maharajah Flamenco Trio from the official video for "Dariya." Roughcut Productions, 2017.</p>
+</div>
 
 ## Science
 @timbres sums up an article by @tarnopolsky and notes that skilled didgeridoo musicians can adjust their throat anatomy to produce a very wide range of [timbres](https://en.wikipedia.org/wiki/Timbre). @fletcher provides a summary of the physics of this simple instrument. 
@@ -18,25 +24,25 @@ TODO
 ## Construction
 The didgeridoo will be constructed from three PVC components seen in Figure \@ref(fig:construction): a reducing coupling (A), a pipe (B) , and a trap adapter (C and D). The length (L) of the pipe is variable and determines the key of the instrument. The mouthpiece is in two pieces. Part D will need to be threaded onto Part C. All other fittings should be pressed on until secure. No adhesives are used in this construction.
 
-<div class="figure">
+<div class="figure" style="text-align: center">
 <img src="img/construction.png" alt="PVC didgeridoo construction" width="50%" />
 <p class="caption">(\#fig:construction)PVC didgeridoo construction</p>
 </div>
 
 To begin, join the reducing coupling (A) to the pipe (B).
-<div class="figure">
+<div class="figure" style="text-align: center">
 <img src="img/constructionA.png" alt="PVC didgeridoo construction, part A" width="50%" />
 <p class="caption">(\#fig:constructionA)PVC didgeridoo construction, part A</p>
 </div>
 
 Next, join the pipe (B) to the trap adapter base (C).
-<div class="figure">
+<div class="figure" style="text-align: center">
 <img src="img/constructionB.png" alt="PVC didgeridoo construction, part B" width="50%" />
 <p class="caption">(\#fig:constructionB)PVC didgeridoo construction, part B</p>
 </div>
 
 Finally, join the trap adapter base (C) to the trap adapter nut (D) by carefully threading the nut onto the base.
-<div class="figure">
+<div class="figure" style="text-align: center">
 <img src="img/constructionC.png" alt="PVC didgeridoo construction, part C" width="50%" />
 <p class="caption">(\#fig:constructionC)PVC didgeridoo construction, part C</p>
 </div>
@@ -44,15 +50,15 @@ Finally, join the trap adapter base (C) to the trap adapter nut (D) by carefully
 Your PVC didgeridoo should now be fully assembled. Wipe down the trap adapter with an alcohol pad before attempting to play!
 
 ## Standard Form
-The didgeridoo can be created in many forms. The standard form, which is the focus of this activity, results in a simple straight form.
+While traditional hollow-branch didgeridoos are generally straight, the PVC didgeridoo can be created in many forms. The standard straight form is the simplest design with a single length of pipe connecting the mouthpiece to the flared bell (our reducing coupling) at the opposite end.
 
-<div class="figure">
+<div class="figure" style="text-align: center">
 <img src="img/assembled.png" alt="PVC didgeridoo; standard form" width="50%" />
 <p class="caption">(\#fig:assembled)PVC didgeridoo; standard form</p>
 </div>
 
 ## Alternative Forms
-Alternative forms can result in more compact, twisted variations. These forms require extensive cutting and the use of angled fittings. One example is presented here for inspiration. With these forms, students can create longer didgeridoos and deeper, more resonant notes while occupying minimal space. 
+Alternative forms can result in more compact, twisted variations. These forms require extensive cutting and the use of angled fittings. One example is presented here for inspiration. With these forms, students can create longer didgeridoos and deeper, more resonant notes while occupying minimal space. What new form can you create?
 
 <div class="figure">
 <img src="img/alternative.png" alt="PVC didgeridoo; standard form" width="50%" />
@@ -98,7 +104,7 @@ D#             155.56           553
 E              164.81           522
 
 ## Decoration
-According to @decoration, the didgeridoo may be decorated. Many designs are inspired by nature and traditional pigments contributed an array of earth-tone hues to the instrument. See Figures \@ref(fig:patternsA) and \@ref(fig:patternsB) for some examples. 
+According to @harris, the didgeridoo may be decorated. Many designs are inspired by nature and traditional pigments contributed an array of earth-tone hues to the instrument. See Figures \@ref(fig:patternsA) and \@ref(fig:patternsB) for some examples. 
 
 <div class="figure" style="text-align: center">
 <img src="img/patternsA.jpg" alt="Didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain." width="50%" />
