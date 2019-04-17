@@ -20,7 +20,11 @@ Success will be determined by:
 - Creation of playable PVC musical instruments
 - Creation and performance of a musical piece inspired directly by trends in global climate data
 
-<div class="figure">
-<img src="img/didgeridoo.jpg" alt="Didgeridoo." width="50%" />
-<p class="caption">(\#fig:unnamed-chunk-2)Didgeridoo.</p>
-</div>
+\begin{figure}
+
+{\centering \includegraphics[width=0.5\linewidth]{img/didgeridoo} 
+
+}
+
+\caption{Didgeridoo.}(\#fig:unnamed-chunk-2)
+\end{figure}

@@ -24,7 +24,7 @@ if(!knitr:::is_html_output())
 }
 ```
 
-```{r echo=FALSE, message=FALSE}
+```{r results='hide', message=FALSE, warning=FALSE, echo=FALSE}
 #NOTES
 #run this command in the RStudio Console to compile: bookdown::render_book("index.Rmd")
 #render PDF: bookdown::render_book("index.Rmd", "bookdown::pdf_book")
@@ -32,7 +32,7 @@ if(!knitr:::is_html_output())
 
 #LIBRARIES
 #load required libraries
-#use message=FALSE to suppress warning messages
+#use additional arguments to suppress warnings and messages
 library(knitr)
 ```
 

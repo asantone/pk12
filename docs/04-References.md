@@ -5,5 +5,3 @@ output:
 ---
 
 
-# References {-}
-

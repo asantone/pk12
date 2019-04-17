@@ -17,9 +17,6 @@ biblio-style: apalike
 
 
 
-```
-## Warning: package 'knitr' was built under R version 3.4.4
-```
 
 
 # Introduction {-}
