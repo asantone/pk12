@@ -4,7 +4,7 @@ bookdown::gitbook:
   config:
     toolbar:
       position: fixed
-    download: ["pdf", "doc"]
+    download: ["pdf", "docx"]
     toc:
       collapse: subsection
       scroll_highlight: yes
