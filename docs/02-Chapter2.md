@@ -14,7 +14,7 @@ TODO
 The didgeridoo, or yidaki, is an ancient wind instrument believed to have originated among the indigenous people of northern Australia over 40,000 years ago [@harris]. This instrument is traditionally used for cermonial functions and also for recreational and entertainment purposes. Ramin Yazdanpanah is a modern didgeridoo musician who plays with the [Maharajah Flamenco Trio](https://www.mftrio.com/), a group that incorporates global sounds into their music. 
 
 <div class="figure" style="text-align: center">
-<img src="img/yaz.jpg" alt="Ramin Yazdanpanah of the Maharajah Flamenco Trio from the official video for &quot;Dariya.&quot; Roughcut Productions, 2017." width="50%" />
+<img src="img/yaz.png" alt="Ramin Yazdanpanah of the Maharajah Flamenco Trio from the official video for &quot;Dariya.&quot; Roughcut Productions, 2017." width="50%" />
 <p class="caption">(\#fig:yaz)Ramin Yazdanpanah of the Maharajah Flamenco Trio from the official video for "Dariya." Roughcut Productions, 2017.</p>
 </div>
 
