@@ -13,10 +13,14 @@ if(!knitr:::is_html_output())
   knitr::opts_chunk$set(echo = TRUE, fig.align="center")
 }
 ```
-# Didgeridoo Construction
+# Didgeridoo 
 
 ## Overview
 TODO
+
+## History and Significance
+
+## Science
 
 ## Construction
 The didgeridoo will be constructed from three PVC components seen in Figure \@ref(fig:construction): a reducing coupling (A), a pipe (B) , and a trap adapter (C and D). The length (L) of the pipe is variable and determines the key of the instrument. The mouthpiece is in two pieces. Part D will need to be threaded onto Part C. All other fittings should be pressed on until secure. No adhesives are used in this construction.

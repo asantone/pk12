@@ -6,7 +6,7 @@ output:
 
 # Materials and Tools List
 
-This section describes the materials and tools needed to construct a basic PVC didgeridoo and a basic PVC paixiao.
+This chapter describes the materials and tools needed to construct a basic PVC didgeridoo and a basic PVC paixiao.
 
 ## PVC Didgeridoo
 

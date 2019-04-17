@@ -13,11 +13,11 @@ if(!knitr:::is_html_output())
   knitr::opts_chunk$set(echo = TRUE, fig.align="center")
 }
 ```
-# Climate Data 
+# Music 
 
-## Overview
+## Climate Data as Inspiration
 TODO
 
-## Data Visualizations
+## Performance
 TODO
 

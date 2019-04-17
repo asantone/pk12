@@ -1,0 +1,84 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+```{r include = FALSE}
+if(!knitr:::is_html_output())
+{
+  options("width"=56)
+  knitr::opts_chunk$set(tidy.opts=list(width.cutoff=56, indent = 2), tidy = TRUE)
+  #knitr::opts_chunk$set(fig.pos = 'H')
+  knitr::opts_chunk$set(echo = TRUE, fig.align="center")
+}
+```
+# Materials and Tools List
+
+This chapter describes the materials and tools needed to construct a basic PVC didgeridoo and a basic PVC paixiao.
+
+## PVC Didgeridoo
+
+```{r echo = FALSE}
+didgeridooMaterials<-c( "PVC pipe", 
+                        "PVC trap adapter",
+                        "PVC Reducing Coupling",
+                        "Sandpaper	Medium Grit",
+                        "Sandpaper	Coarse Grit",
+                        "Alcohol Prep Pads"
+                        )
+didgeridooSpecsImperial<-c( "1.5\", Schedule 40", 
+                        "1.5\", Schedule 40",
+                        "3.0\"x1.5\", Schedule 40",
+                        "Medium Grit",
+                        "Coarse Grit",
+                        "-"
+                        )
+didgeridooQtyImperial<-c( "10\'", 
+                        "1",
+                        "1",
+                        "as needed",
+                        "as needed",
+                        "as needed"
+                        )
+didgeridooMaterialsDF<-data.frame(didgeridooMaterials,didgeridooSpecsImperial,didgeridooQtyImperial)
+names(didgeridooMaterialsDF) <- c("Materials", "Specifications (Imperial)", "Quantity or Length (Imperial)")
+
+
+toolNames<-c( "PVC Reamer", 
+              "Hacksaw", 
+              "Digital Tuner", 
+              "Permanent markers, multicolor",
+              "Safety glasses"
+              )
+toolSpecs<-c( "> 1.5\"", 
+              "small", 
+              "multi-instrument, clip-on or phone app", 
+              "any color",
+              "polycarbonate, ANSI Z87.1-2015 or similar"
+              )
+toolQty<-c( "1", 
+            "1", 
+            "1", 
+            "any",
+            "1 pair per student"
+            )
+
+toolsDF<-data.frame(toolNames, toolSpecs, toolQty)
+names(toolsDF) <- c("Name", "Specifications (Imperial)", "Quantity (Imperial)")
+```
+
+```{r, echo=FALSE}
+knitr::kable(
+  didgeridooMaterialsDF, booktabs = TRUE,
+  caption = 'Materials for constructing a PVC Didgeridoo.'
+)
+```
+
+```{r, echo=FALSE}
+knitr::kable(
+  toolsDF, booktabs = TRUE,
+  caption = 'Tools for constructing a PVC Didgeridoo.'
+)
+```
+
+## PVC Paixiao
