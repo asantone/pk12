@@ -118,9 +118,7 @@ It's a great idea to watch some videos online to hear musicians play different s
 
 Here's a video of Sanshi providing a good intro to the didgeridoo:
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=W2gwTPPtgPI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2gwTPPtgPI" frameborder="0" allowfullscreen></iframe>
 
 Sanshi plays a lot of didgeridoo demonstrations to provide customers with an idea of how each instrument sounds. Here's a video entitled "[Ellswood Didge C (No.2202) Didgeridoo Demo.](https://www.youtube.com/watch?v=Kwq6GKDDGXY)"
 
