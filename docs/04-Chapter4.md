@@ -10,6 +10,9 @@ output:
 ## Climate Data as Inspiration
 TODO
 
+Students should look to the suggested climate data resources, or other reputable information, for inspiration to create a musical piece to be performed with their PVC instruments. Students should be allowed maximum creative freedom to interpret their data in musical form but some suggestions include converting wind speed changes into pitch variation, temperature into tempo, or spikes into percussion. Students should brainstorm and work among small teams to document their data source, their method of interpretation, and their data-to-music philosophy. 
+
 ## Performance
 TODO
 
+Students will perform in small teams. A team leader should announce the piece and include a brief informative talk about the data source and how it was used to inspire the musical performance. 
