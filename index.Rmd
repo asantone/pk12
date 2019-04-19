@@ -13,6 +13,7 @@ link-citations: yes
 bibliography: bibliography.bib
 site: bookdown::bookdown_site
 biblio-style: apalike
+urlcolor: blue
 ---
 ```{r include = FALSE}
 if(!knitr:::is_html_output())
