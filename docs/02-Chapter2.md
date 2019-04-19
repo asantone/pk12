@@ -119,9 +119,22 @@ It's a great idea to watch some videos online to hear musicians play different s
 Here's a video of Sanshi providing a good intro to the didgeridoo:
 
 
+```r
+knitr::include_url("https://www.youtube.com/watch?v=W2gwTPPtgPI")
+```
 
 Sanshi plays a lot of didgeridoo demonstrations to provide customers with an idea of how each instrument sounds. Here's a video entitled "[Ellswood Didge C (No.2202) Didgeridoo Demo.](https://www.youtube.com/watch?v=Kwq6GKDDGXY)"
 
-![](https://www.youtube.com/watch?v=Kwq6GKDDGXY){width="90%"}
+
+```r
+knitr::include_url("https://www.youtube.com/watch?v=Kwq6GKDDGXY")
+```
+
+A didgeridoo is featured in "Dariya" performed here as a Tiny Desk Concert entry by Maharajah Flamenco Trio from Tallahassee, Florida, USA. Performed by Ramin Yazdanpanah on cajon \& didgeridoo, David Cobb on bass, and Silviu Ciulei on guitar. 
+
+
+```r
+knitr::include_url("https://www.youtube.com/watch?v=M45Eh2oZrL8")
+```
 
 
