@@ -20,14 +20,7 @@ Success will be determined by:
 - Creation of playable PVC musical instruments
 - Creation and performance of a musical piece inspired directly by trends in global climate data
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.5\linewidth]{img/didgeridooFull} 
-
-}
-
-\caption{Large Jesse Lethbridge Didgeridoo (4845). Seen at [DidgeridooBreath.com](https://www.didgeridoobreath.com/Large-Jesse-Lethbridge-Didgeridoo-4845-p/d-575-4845.htm)}(\#fig:unnamed-chunk-2)
-\end{figure}
+![(\#fig:didigeridooFull)Large Jesse Lethbridge Didgeridoo (4845). Seen at [DidgeridooBreath.com](https://www.didgeridoobreath.com/Large-Jesse-Lethbridge-Didgeridoo-4845-p/d-575-4845.htm)](img/didgeridooFull.jpg)
 
 
 

@@ -27,11 +27,11 @@ knitr::include_graphics("img/yaz.png")
 ## Anatomy
 A traditional didgeridoo has essentially three components: the mouthpiece, the body, and the bell or flare. The mouthpiece is a small opening usually formed with beeswax. The body is hollowed out, usually by termites. The flare is a natural widening of the body where a trunk or branch meets the ground or larger section of the tree. 
 
-```{r echo = FALSE, fig.cap = 'Mouthpiece detail of a Large Jesse Lethbridge Didgeridoo (4845). Seen at [DidgeridooBreath.com](https://www.didgeridoobreath.com/Large-Jesse-Lethbridge-Didgeridoo-4845-p/d-575-4845.htm)', fig.width=6, out.width = '50%', fig.align="center"}
+```{r didgeridooMouthpiece, echo = FALSE, fig.cap = 'Mouthpiece detail of a Large Jesse Lethbridge Didgeridoo (4845). Seen at [DidgeridooBreath.com](https://www.didgeridoobreath.com/Large-Jesse-Lethbridge-Didgeridoo-4845-p/d-575-4845.htm)', fig.width=6, out.width = '50%', fig.align="center"}
 knitr::include_graphics("img/didgeridooMouthpiece.jpg")
 ```
 
-```{r echo = FALSE, fig.cap = 'Bell detail of a Large Jesse Lethbridge Didgeridoo (4845). Seen at [DidgeridooBreath.com](https://www.didgeridoobreath.com/Large-Jesse-Lethbridge-Didgeridoo-4845-p/d-575-4845.htm)', fig.width=6, out.width = '50%', fig.align="center"}
+```{r didgeridooBell, echo = FALSE, fig.cap = 'Bell detail of a Large Jesse Lethbridge Didgeridoo (4845). Seen at [DidgeridooBreath.com](https://www.didgeridoobreath.com/Large-Jesse-Lethbridge-Didgeridoo-4845-p/d-575-4845.htm)', fig.width=6, out.width = '50%', fig.align="center"}
 knitr::include_graphics("img/didgeridooBell.jpg")
 ```
 
