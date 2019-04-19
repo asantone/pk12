@@ -111,7 +111,17 @@ According to @harris, the didgeridoo may be decorated. Many designs are inspired
 <p class="caption">(\#fig:patternsA)Didgeridoo decorations. Photo by Bernard Spragg, NZ. Public Domain.</p>
 </div>
 
+## Play
+At the most basic level, the didgeridoo is a very simple tube, traditionally a hollowed-out eucalyptus branch or trunk eaten away from the inside by termites. This wind instrument, also classified as a brass aerophone, is deceptively simple however. The physical characteristics of the instrument, paired with the skill of the musician, allow for a wide variety of sounds that may incorporate percussion, vocalization, and intricate droning techniques. For more information on terminology such as resonance, backpressure, and different types of notes, investigate the information presented by @terminology. These concepts may help students to think of some methods they can try to incorporate into their playing style. 
 
+It's a great idea to watch some videos online to hear musicians play different styles, different instruments in a variety of keys, and to hear artists practice as a band. One popular channel on YouTube is [DidgeridooBreath](https://www.youtube.com/user/DidgeridooBreath/videos). 
 
+Here's a video of Sanshi providing a good intro to the didgeridoo:
+
+![](https://www.youtube.com/watch?v=W2gwTPPtgPI){width="90%"}
+
+Sanshi plays a lot of didgeridoo demonstrations to provide customers with an idea of how each instrument sounds. Here's a video entitled "[Ellswood Didge C (No.2202) Didgeridoo Demo.](https://www.youtube.com/watch?v=Kwq6GKDDGXY)"
+
+![](https://www.youtube.com/watch?v=Kwq6GKDDGXY){width="90%"}
 
 

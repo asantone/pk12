@@ -25,9 +25,6 @@ Visualization is not the only method for understanding data, however. We may als
 As an example of a sonfication of climate data for popular consumption, listen to "134 Years of Global Temperature Change in 14 Seconds" by Nelson Guda (@threshold) for [Threshold] (https://nelsonguda.com/project/threshold/), a data art project about climate change. In this piece, "the piano notes are the annual temperature data from 1850 – 2015"," and "the orchestra plays chords made of the minimum, mean and maximum temperatures for eight year intervals over that time period." The data are sourced from The Berkeley Earth Data site (@tempData).
 
 
-
-
-
 TODO: expand
 https://power.larc.nasa.gov/
 https://climate.nasa.gov/evidence/
