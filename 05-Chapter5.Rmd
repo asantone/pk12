@@ -81,3 +81,44 @@ knitr::kable(
 ```
 
 ## PVC Paixiao
+```{r echo = FALSE}
+paixiaoMaterials<-c( "PVC pipe",
+                     "PVC cap",
+                        "Sandpaper	Medium Grit",
+                        "Sandpaper	Coarse Grit",
+                        "Alcohol Prep Pads",
+                      "Duct tape or hot glue"
+                        )
+paixiaoSpecsImperial<-c( "0.5\", Schedule 40", 
+                         "0.5\", Schedule 40",
+                        "Medium Grit",
+                        "Coarse Grit",
+                        "-",
+                        "-"
+                        )
+paixiaoQtyImperial<-c( "3\'", 
+                        "1",
+                        "1",
+                        "as needed",
+                        "as needed",
+                       "as needed",
+                        "as needed"
+                        )
+paixiaoMaterialsDF<-data.frame(didgeridooMaterials,didgeridooSpecsImperial,didgeridooQtyImperial)
+names(paixiaoMaterialsDF) <- c("Materials", "Specifications (Imperial)", "Quantity or Length (Imperial)")
+```
+
+```{r, echo=FALSE}
+knitr::kable(
+  paixiaoMaterialsDF, booktabs = TRUE,
+  caption = 'Materials for constructing a PVC Paixiao.'
+)
+```
+
+```{r, echo=FALSE}
+knitr::kable(
+  toolsDF, booktabs = TRUE,
+  caption = 'Tools for constructing a PVC Paixiao.'
+)
+```
+
