@@ -15,14 +15,7 @@ Quantitative data, in the form of a sea numbers, are usually messy, bloated, and
 
 As an example, we can look at a land temperature data visualization presented by @tempDataViz. In this plot, we see a few notable features. First, the x axis represents each the years 1850 to 2015. The y axis represents the Global Average Temperature in Celcius. Black data points are presented for each year, restricted to only the United States. Each data point is paired with error bars representing uncertainty in that calculated value. We can observe how the uncertainty, or the distance between the maximum and minimum value of the error bars decreases over time. This might be due to our increasing sophistication in measurement tools and perhaps the sheer number of data points collected each year. Another feature we see is the meandering line and blue shaded region. The line represents a smoothed average over time and the blue shaded region represents the 95% confidence interval around that average. This line and shaded region are used to provide an idea about a trend in the data set. Hopefully, this type of scatterplot visualization can more easily inform the viewer about any patterns in the data that might be of interest versus the raw data. 
 
-\begin{figure}
-
-{\centering \includegraphics[width=0.5\linewidth]{img/tempDataPlot} 
-
-}
-
-\caption{Global Average Temperature by Year, United States}(\#fig:tempDataViz)
-\end{figure}
+![(\#fig:tempDataViz)Global Average Temperature by Year, United States](img/tempDataPlot.png)
 
 Visualization is not the only method for understanding data, however. We may also use a process called sonification (@sonification) to transform data into sound. This method offers advantages over visualization for recognition of time-based patterns and changes. This is important when dealing with very long time frames on the geologic time scale. 
 
