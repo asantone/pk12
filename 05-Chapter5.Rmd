@@ -96,15 +96,14 @@ paixiaoSpecsImperial<-c( "0.5\", Schedule 40",
                         "-",
                         "-"
                         )
-paixiaoQtyImperial<-c( "3\'", 
+paixiaoQtyImperial<-c( "3\'",
+                       "3 to 5, as needed",
                         "1",
                         "1",
                         "as needed",
-                        "as needed",
-                       "as needed",
                         "as needed"
                         )
-paixiaoMaterialsDF<-data.frame(didgeridooMaterials,didgeridooSpecsImperial,didgeridooQtyImperial)
+paixiaoMaterialsDF<-data.frame(paixiaoMaterials,paixiaoSpecsImperial,paixiaoQtyImperial)
 names(paixiaoMaterialsDF) <- c("Materials", "Specifications (Imperial)", "Quantity or Length (Imperial)")
 ```
 
@@ -122,3 +121,48 @@ knitr::kable(
 )
 ```
 
+## Materials and Tools Gallery
+
+```{r pvcPipe, echo = FALSE, fig.cap = 'PVC Pipe, [Image Source](https://www.homedepot.com/p/Genova-Products-PVC-Schedule-40-Pressure-Pipe-1-1-2-in-x-10-ft-Plain-End-70011N/300282341)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/pvcPipe.jpg")
+```
+
+```{r pvcTrapAdapter, echo = FALSE, fig.cap = 'PVC Trap Adapter, [Image Source](https://www.homedepot.com/p/Nibco-1-1-2-in-x-1-1-2-in-PVC-DWV-Trap-Adapter-C480127HD112114/100342402)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/trapAdapter.jpg")
+```
+
+```{r pvcReducingCoupling, echo = FALSE, fig.cap = 'PVC Reducing Coupling, [Image Source](https://www.homedepot.com/p/3-in-x-1-1-2-in-PVC-DWV-Reducing-Coupling-C4801HD3112/100343439)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/reducingCoupling.jpg")
+```
+
+```{r pvcReamer, echo = FALSE, fig.cap = 'PVC Reamer, [Image Source](https://www.homedepot.com/p/Armour-Line-1-8-in-1-5-8-in-Dia-Pipe-and-Tubing-Reamer-Red-RP77271/306699486)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/reamer.jpg")
+```
+
+```{r sandpaperMedium, echo = FALSE, fig.cap = 'Medium-grit sandpaper, [Image Source](https://www.homedepot.com/p/3M-9-in-x-11-in-100-150-220-Grit-Medium-Fine-and-Very-Fine-Aluminum-Oxide-Sand-Paper-5-Sheets-Pack-9005NA/203783586)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/sandpaperMulti.jpg")
+```
+
+```{r sandpaperCoarse, echo = FALSE, fig.cap = 'Coarse-grit sandpaper, [Image Source](https://www.homedepot.com/p/Fandeli-9-in-x-11-in-60-Grit-Coarse-Premium-Aluminum-Oxide-Sandpaper-25-Pack-36021/206443022)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/sandpaperCoarse.jpg")
+```
+
+```{r alcoholPrepPads, echo = FALSE, fig.cap = 'Alcohol prep pads, [Image Source](https://www.amazon.com/Care-Touch-Sterile-Alcohol-Medium/dp/B06XS38XH6)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/alcoholPrepPads.jpg")
+```
+
+```{r hacksaw, echo = FALSE, fig.cap = 'Hacksaw, [Image Source](https://www.homedepot.com/p/Husky-6-in-Hack-Saw-with-Comfort-Grip-Handle-122JHSC/204748808?MERCH=REC-_-PIPHorizontal2_rr-_-303858480-_-204748808-_-N)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/hacksaw.jpg")
+```
+
+```{r digitalTuner, echo = FALSE, fig.cap = 'Clip-on tuner, [Image Source](http://www.snarktuners.com/products/original-clip-on)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/tuner.png")
+```
+
+```{r permanentMarkers, echo = FALSE, fig.cap = 'Permanent markers, [Image Source](https://www.amazon.com/Sharpie-Permanent-Marker-Multi-Color/dp/B077TJS66N)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/markers.png")
+```
+
+```{r safetyGlasses, echo = FALSE, fig.cap = 'Safety glasses, [Image Source](https://www.safetyglassesusa.com/bk210.html)', fig.width=6, out.width = '50%', fig.align="center"}
+knitr::include_graphics("img/glasses.jpg")
+```
