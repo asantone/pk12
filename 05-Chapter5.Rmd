@@ -1,7 +1,7 @@
 ---
 output:
-  word_document: default
   html_document: default
+  word_document: default
 ---
 ```{r include = FALSE}
 if(!knitr:::is_html_output())
@@ -13,7 +13,7 @@ if(!knitr:::is_html_output())
 ```
 # Materials and Tools List
 
-This chapter describes the materials and tools needed to construct a basic PVC didgeridoo and a basic PVC paixiao.
+This chapter describes the materials and tools needed to construct a basic PVC didgeridoo and a basic PVC paixiao. Please note an optional beeswax mouthpiece may be constructed by molding warm, soft wax around one end of the PVC didgeridoo. 
 
 ## PVC Didgeridoo
 
@@ -21,49 +21,54 @@ This chapter describes the materials and tools needed to construct a basic PVC d
 didgeridooMaterials<-c( "PVC pipe", 
                         "PVC trap adapter",
                         "PVC Reducing Coupling",
-                        "Sandpaper	Medium Grit",
-                        "Sandpaper	Coarse Grit",
+                        "Sandpaper",
                         "Alcohol Prep Pads"
                         )
 didgeridooSpecsImperial<-c( "1.5\", Schedule 40", 
                         "1.5\", Schedule 40",
                         "3.0\"x1.5\", Schedule 40",
                         "Medium Grit",
-                        "Coarse Grit",
                         "-"
                         )
 didgeridooQtyImperial<-c( "10\'", 
                         "1",
                         "1",
                         "as needed",
+                        "as needed"
+                        )
+didgeridooQtyImperialx100<-c( "50", 
+                        "100",
+                        "100",
                         "as needed",
                         "as needed"
                         )
-didgeridooMaterialsDF<-data.frame(didgeridooMaterials,didgeridooSpecsImperial,didgeridooQtyImperial)
-names(didgeridooMaterialsDF) <- c("Materials", "Specifications (Imperial)", "Quantity or Length (Imperial)")
+didgeridooMaterialsDF<-data.frame(didgeridooMaterials,didgeridooSpecsImperial,didgeridooQtyImperial,didgeridooQtyImperialx100)
+names(didgeridooMaterialsDF) <- c("Material", "Spec", "Qty (2)", "Qty (100)")
 
 
-toolNames<-c( "PVC Reamer", 
-              "Hacksaw", 
+toolNames<-c( "Hacksaw", 
               "Digital Tuner", 
               "Permanent markers, multicolor",
               "Safety glasses"
               )
-toolSpecs<-c( "> 1.5\"", 
-              "small", 
+toolSpecs<-c( "small", 
               "multi-instrument, clip-on or phone app", 
               "any color",
               "polycarbonate, ANSI Z87.1-2015 or similar"
               )
 toolQty<-c( "1", 
             "1", 
-            "1", 
             "any",
-            "1 pair per student"
+            "1 per student"
+            )
+toolQtyx100<-c( "1 per pair", 
+            "10", 
+            "as needed",
+            "1 per student"
             )
 
-toolsDF<-data.frame(toolNames, toolSpecs, toolQty)
-names(toolsDF) <- c("Name", "Specifications (Imperial)", "Quantity (Imperial)")
+toolsDF<-data.frame(toolNames, toolSpecs, toolQty, toolQtyx100)
+names(toolsDF) <- c("Name", "Spec", "Qty (2)", "Qty (100)")
 ```
 
 ```{r, echo=FALSE}
@@ -83,22 +88,19 @@ knitr::kable(
 ## PVC Paixiao
 ```{r echo = FALSE}
 paixiaoMaterials<-c( "PVC pipe",
-                     "PVC cap",
-                        "Sandpaper	Medium Grit",
-                        "Sandpaper	Coarse Grit",
+                     "Small coins",
+                        "Sandpaper",
                         "Alcohol Prep Pads",
                       "Duct tape or hot glue"
                         )
 paixiaoSpecsImperial<-c( "0.5\", Schedule 40", 
-                         "0.5\", Schedule 40",
+                         "~0.5\" diameter",
                         "Medium Grit",
-                        "Coarse Grit",
                         "-",
                         "-"
                         )
 paixiaoQtyImperial<-c( "3\'",
                        "3 to 5, as needed",
-                        "1",
                         "1",
                         "as needed",
                         "as needed"
@@ -135,25 +137,30 @@ knitr::include_graphics("img/trapAdapter.jpg")
 knitr::include_graphics("img/reducingCoupling.jpg")
 ```
 
+<!--
 ```{r pvcReamer, echo = FALSE, fig.cap = 'PVC Reamer, [Image Source](https://www.homedepot.com/p/Armour-Line-1-8-in-1-5-8-in-Dia-Pipe-and-Tubing-Reamer-Red-RP77271/306699486)', fig.width=6, out.width = '50%', fig.align="center"}
 knitr::include_graphics("img/reamer.jpg")
 ```
+-->
 
 ```{r sandpaperMedium, echo = FALSE, fig.cap = 'Medium-grit sandpaper, [Image Source](https://www.homedepot.com/p/3M-9-in-x-11-in-100-150-220-Grit-Medium-Fine-and-Very-Fine-Aluminum-Oxide-Sand-Paper-5-Sheets-Pack-9005NA/203783586)', fig.width=6, out.width = '50%', fig.align="center"}
 knitr::include_graphics("img/sandpaperMulti.jpg")
 ```
 
+<!--
 ```{r sandpaperCoarse, echo = FALSE, fig.cap = 'Coarse-grit sandpaper, [Image Source](https://www.homedepot.com/p/Fandeli-9-in-x-11-in-60-Grit-Coarse-Premium-Aluminum-Oxide-Sandpaper-25-Pack-36021/206443022)', fig.width=6, out.width = '50%', fig.align="center"}
 knitr::include_graphics("img/sandpaperCoarse.jpg")
 ```
+-->
 
 ```{r alcoholPrepPads, echo = FALSE, fig.cap = 'Alcohol prep pads, [Image Source](https://www.amazon.com/Care-Touch-Sterile-Alcohol-Medium/dp/B06XS38XH6)', fig.width=6, out.width = '50%', fig.align="center"}
 knitr::include_graphics("img/alcoholPrepPads.jpg")
 ```
 
-```{r hacksaw, echo = FALSE, fig.cap = 'Hacksaw, [Image Source](https://www.homedepot.com/p/Husky-6-in-Hack-Saw-with-Comfort-Grip-Handle-122JHSC/204748808?MERCH=REC-_-PIPHorizontal2_rr-_-303858480-_-204748808-_-N)', fig.width=6, out.width = '50%', fig.align="center"}
+<!--```{r hacksaw, echo = FALSE, fig.cap = 'Hacksaw, [Image Source](https://www.homedepot.com/p/Husky-6-in-Hack-Saw-with-Comfort-Grip-Handle-122JHSC/204748808?MERCH=REC-_-PIPHorizontal2_rr-_-303858480-_-204748808-_-N)', fig.width=6, out.width = '50%', fig.align="center"}
 knitr::include_graphics("img/hacksaw.jpg")
 ```
+-->
 
 ```{r digitalTuner, echo = FALSE, fig.cap = 'Clip-on tuner, [Image Source](http://www.snarktuners.com/products/original-clip-on)', fig.width=6, out.width = '50%', fig.align="center"}
 knitr::include_graphics("img/tuner.png")

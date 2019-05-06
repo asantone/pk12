@@ -1,10 +1,10 @@
 --- 
 title: "Didgeridata"
 author: "Adam Santone"
-date: "`r Sys.Date()`"
+date: '`r Sys.Date()`'
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
   word_document: default
 description: An MIT pk12 Action Group Lesson for the 2019 MIT STEAM Camp, Hong Kong
 documentclass: book

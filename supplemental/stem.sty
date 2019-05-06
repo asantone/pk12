@@ -1,0 +1,59 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{stem}[2015/07/01 STEM Curriculum LaTeX package]
+\RequirePackage{amsmath}			%for math stuff
+\RequirePackage{amsfonts}			%for math stuff
+\RequirePackage{amssymb}			%for math stuff
+\RequirePackage{pgfplots}			%for drawing plots and graphs
+\RequirePackage{fancyhdr}			%for headers and footers
+\RequirePackage{float}				%for tweaking placement of tables, figures, etc.
+\RequirePackage[margin=1.0in]{geometry} 	%set the margins
+\RequirePackage{enumitem}			%for special numbering
+\RequirePackage{graphicx} 			%for graphics
+\RequirePackage{lastpage}			%for page # of #
+\RequirePackage{tikz}				%for advanced graphics
+\usetikzlibrary{patterns}
+\usetikzlibrary{arrows}
+\usetikzlibrary{shapes}
+\RequirePackage{booktabs}			%for better table styles
+\RequirePackage{xcolor}				%for colors
+\RequirePackage{colortbl}			%for table colors
+\RequirePackage{sectsty}			%for section styles
+\RequirePackage{footnote}			%for special footnote functions
+\RequirePackage{caption}			%for caption modifications
+\RequirePackage{longtable}			%for multipage tables
+\RequirePackage{gensymb}			%for symbols, like degrees
+\RequirePackage{wasysym}			%for additional symbols
+\RequirePackage{multirow}			%for multirows in tables
+
+\graphicspath{ {img/} } %force use of an image folder
+
+%define custom color for links as hexadecimal notation or variations of existing colors
+\definecolor{linkBlue}{HTML}{0066FF}
+\definecolor{ghost}{gray}{0.9}
+
+%set links to have color
+\usepackage[colorlinks=true, linkcolor=linkBlue, urlcolor=linkBlue]{hyperref}
+
+%formatting variables for graph paper
+\def\gridWidth{15}	%local definition for overall graph paper width
+\def\gridHeight{10}	%local definition for overall graph paper height
+
+%format section titles
+\sectionfont{\color[HTML]{A31F34}}  
+\subsectionfont{\noindent \color[HTML]{A31F34} \textit} 
+
+\author{}
+\date{} %hide date
+
+%set page style for new headers and footers
+\pagestyle{fancy} 
+
+%clear header and footer settings
+\fancyhf{} 
+
+%define left footer
+%\lfoot{\tiny{Copyright \copyright  2019 MIT. All rights reserved.}} 
+
+%define right footer
+\rfoot{Page \thepage\ of \pageref{LastPage}}
+%\lhead{\includegraphics[width=2cm]{mskLogo.png}}

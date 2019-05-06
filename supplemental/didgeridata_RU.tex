@@ -1,0 +1,61 @@
+\documentclass[letterpaper,12pt]{scrartcl}
+\usepackage{stem}
+
+%adjustments for table cell padding
+%change these if your table elements don't fit right
+\setlength{\tabcolsep}{10pt}
+\renewcommand{\arraystretch}{1.5}
+
+\makeatletter
+\title{
+%EDIT YOUR TITLE HERE
+%====================
+Didgeridata
+%====================
+}\let\myTitle\@title
+
+\makeatletter
+\let\runtitle\@title
+\makeatother
+\rhead{\runtitle: 
+%EDIT THE TYPE OF DOCUMENT HERE (Options: see below; comment out what you do not use)
+%Do not modify the options
+%============================================================================================
+Grading Rubric
+%============================================================================================
+}
+
+\begin{document}
+\thispagestyle{fancy}
+%=================================
+%THIS IS THE START OF THE DOCUMENT
+%=================================
+\noindent Name \& Date:\\ %Name/Date header 
+\rule{\textwidth}{1pt}    %horizontal line
+
+\section*{Rubric}
+\begin{table}[h!]
+	\begin{tabular}{p{1cm}p{4cm}p{4cm}p{4cm}}
+		Level & Analysis & Construction & Performance\\
+		4     & Creates detailed notes from an exploration of multiple climate data sources, images, and/or data sets. 
+		      & Helps to successfully create multiple, playable PVC musical instruments in a team. Follows correct safety procedures. 
+		      & Verbally clearly articulates clear data-music connections. Composes a novel music piece on paper. Performs a novel music piece on a self-constructed PVC musical instrument. \\
+		3     & Creates notes from an exploration of multiple climate data sources, images, or data sets.             
+		      & Helps to successfully create a playable PVC musical instrument. Follows correct safety procedures. 
+		      & Successfully performs music inspired by climate data using their self-constructed PVC instrument and articulates data-music connections. \\
+		2     & Reads and interprets climate data sources, images, or data sets.                                       
+		      & Helps to successfully create a PVC musical instrument. Follows correct safety procedures.                             
+		      & Successfully performs music inspired by climate data using their self-constructed PVC instrument.\\
+		1     & Reads climate data sources, images, or data sets.                                                      
+		      & Attempts to create a PVC musical instrument. Follows correct safety procedures.
+		      & Attempts to create a musical composition using climate data inspiration.                                                                                                                                            
+	\end{tabular}
+\end{table}
+
+
+
+
+%=================================
+%THIS IS THE END OF THE DOCUMENT
+%=================================
+\end{document}

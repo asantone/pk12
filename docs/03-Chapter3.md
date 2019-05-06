@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
   word_document: default
 ---
 
@@ -19,12 +19,14 @@ As an example, we can look at a land temperature data visualization presented by
 
 Visualization is not the only method for understanding data, however. We may also use a process called sonification (@sonification) to transform data into sound. This method offers advantages over visualization for recognition of time-based patterns and changes. This is important when dealing with very long time frames on the geologic time scale. 
 
-As an example of a sonfication of climate data for popular consumption, listen to "134 Years of Global Temperature Change in 14 Seconds" by Nelson Guda (@threshold) for [Threshold] (https://nelsonguda.com/project/threshold/), a data art project about climate change. In this piece, "the piano notes are the annual temperature data from 1850 – 2015"," and "the orchestra plays chords made of the minimum, mean and maximum temperatures for eight year intervals over that time period." The data are sourced from The Berkeley Earth Data site (@tempData).
+As an example of a sonfication of climate data for popular consumption, listen to "134 Years of Global Temperature Change in 14 Seconds" by Nelson Guda (@threshold) for [Threshold] (https://nelsonguda.com/project/threshold/), a data art project about climate change. In this piece, "the piano notes are the annual temperature data from 1850-2015"," and "the orchestra plays chords made of the minimum, mean and maximum temperatures for eight year intervals over that time period." The data are sourced from the Berkeley Earth Data site (@tempData).
 
 
 TODO: expand
 https://power.larc.nasa.gov/
 https://climate.nasa.gov/evidence/
+https://www.ncdc.noaa.gov/cdo-web/
+
 
 ## Reading: Fire and Ice
 TODO: expand

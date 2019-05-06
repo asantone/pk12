@@ -1,0 +1,53 @@
+\documentclass[letterpaper,12pt]{scrartcl}
+\usepackage{stem}
+
+%adjustments for table cell padding
+%change these if your table elements don't fit right
+\setlength{\tabcolsep}{10pt}
+\renewcommand{\arraystretch}{1.5}
+
+\makeatletter
+\title{
+%EDIT YOUR TITLE HERE
+%====================
+Didgeridata
+%====================
+}\let\myTitle\@title
+
+\makeatletter
+\let\runtitle\@title
+\makeatother
+\rhead{\runtitle: 
+%EDIT THE TYPE OF DOCUMENT HERE (Options: see below; comment out what you do not use)
+%Do not modify the options
+%============================================================================================
+%Teacher Guide
+%Student Handout
+Student Assessment
+%============================================================================================
+}
+
+\begin{document}
+\thispagestyle{fancy}
+%=================================
+%THIS IS THE START OF THE DOCUMENT
+%=================================
+\noindent Name \& Date:\\ %Name/Date header 
+\rule{\textwidth}{1pt}    %horizontal line
+
+\section*{Review}
+\begin{enumerate} 
+%essay/short answer question. Change vertical space as needed. 
+	\item Explain why it is important to communicate scientific data to the general public. \vspace{30mm}
+	\item Is music a good way to explain science? Why or why not? Explain. \vspace{30mm}
+	\item How would you improve your didigeridoo if you could rebuild one all by yourself? \vspace{10mm}
+	\item How would you improve your paixiao if you could rebuild one all by yourself? \vspace{10mm}
+	\item What is the most memorable finding from your climate data exploration? \vspace{30mm}
+	\item What role does wind play in creating music and how could you use wind as inspiration to teach about climate?  \vspace{30mm}
+\end{enumerate}
+
+
+%=================================
+%THIS IS THE END OF THE DOCUMENT
+%=================================
+\end{document}
