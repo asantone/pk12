@@ -15,45 +15,37 @@ This chapter describes the materials and tools needed to construct a basic PVC d
 
 Table: (\#tab:unnamed-chunk-3)Materials for constructing a PVC Didgeridoo.
 
-Material                Spec                     Qty (2)     Qty (100) 
+Name                    Spec                     Qty (2)     Qty (100) 
 ----------------------  -----------------------  ----------  ----------
-PVC pipe                1.5", Schedule 40        10'         50        
+PVC pipe                1.5", Schedule 40, ~3m   1           50        
 PVC trap adapter        1.5", Schedule 40        1           100       
 PVC Reducing Coupling   3.0"x1.5", Schedule 40   1           100       
 Sandpaper               Medium Grit              as needed   as needed 
 Alcohol Prep Pads       -                        as needed   as needed 
 
-
-Table: (\#tab:unnamed-chunk-4)Tools for constructing a PVC Didgeridoo.
-
-Name                            Spec                                        Qty (2)         Qty (100)     
-------------------------------  ------------------------------------------  --------------  --------------
-Hacksaw                         small                                       1               1 per pair    
-Digital Tuner                   multi-instrument, clip-on or phone app      1               10            
-Permanent markers, multicolor   any color                                   any             as needed     
-Safety glasses                  polycarbonate, ANSI Z87.1-2015 or similar   1 per student   1 per student 
-
 ## PVC Paixiao
 
 
 
-Table: (\#tab:unnamed-chunk-6)Materials for constructing a PVC Paixiao.
+Table: (\#tab:unnamed-chunk-5)Materials for constructing a PVC Paixiao.
 
-Materials               Specifications (Imperial)   Quantity or Length (Imperial) 
-----------------------  --------------------------  ------------------------------
-PVC pipe                0.5", Schedule 40           3'                            
-Small coins             ~0.5" diameter              3 to 5, as needed             
-Sandpaper               Medium Grit                 1                             
-Alcohol Prep Pads       -                           as needed                     
-Duct tape or hot glue   -                           as needed                     
+Name                    Spec                     Qty (2)             Qty (100) 
+----------------------  -----------------------  ------------------  ----------
+PVC pipe                0.5", Schedule 40, ~1m   1                   50        
+Small coins             ~0.5" diameter           3 to 5, as needed   300       
+Sandpaper               Medium Grit              1                   50        
+Alcohol Prep Pads       -                        as needed           as needed 
+Duct tape or hot glue   -                        as needed           as needed 
+
+## Suggested Tools
 
 
-Table: (\#tab:unnamed-chunk-7)Tools for constructing a PVC Paixiao.
+Table: (\#tab:unnamed-chunk-6)Suggested tools for constructing a PVC Didgeridoo and Paixiao.
 
 Name                            Spec                                        Qty (2)         Qty (100)     
 ------------------------------  ------------------------------------------  --------------  --------------
-Hacksaw                         small                                       1               1 per pair    
-Digital Tuner                   multi-instrument, clip-on or phone app      1               10            
+Hacksaw or pull saw             small                                       1               Up to 50      
+Digital Tuner                   multi-instrument, clip-on or phone app      1               Up to 50      
 Permanent markers, multicolor   any color                                   any             as needed     
 Safety glasses                  polycarbonate, ANSI Z87.1-2015 or similar   1 per student   1 per student 
 
@@ -77,10 +69,10 @@ Safety glasses                  polycarbonate, ANSI Z87.1-2015 or similar   1 pe
 
 ![(\#fig:alcoholPrepPads)Alcohol prep pads, [Image Source](https://www.amazon.com/Care-Touch-Sterile-Alcohol-Medium/dp/B06XS38XH6)](img/alcoholPrepPads.jpg)
 
-<!--```{r hacksaw, echo = FALSE, fig.cap = 'Hacksaw, [Image Source](https://www.homedepot.com/p/Husky-6-in-Hack-Saw-with-Comfort-Grip-Handle-122JHSC/204748808?MERCH=REC-_-PIPHorizontal2_rr-_-303858480-_-204748808-_-N)', fig.width=6, out.width = '50%', fig.align="center"}
-knitr::include_graphics("img/hacksaw.jpg")
-```
--->
+![(\#fig:hacksaw)Hacksaw, [Image Source](https://www.homedepot.com/p/Husky-6-in-Hack-Saw-with-Comfort-Grip-Handle-122JHSC/204748808)](img/hacksaw.jpg)
+
+![(\#fig:glue)Hot Glue Gun, [Image Source](https://www.homedepot.com/p/DEWALT-Ceramic-Rapid-Heat-Full-Size-Glue-Gun-DWHTGR50/204293086)](img/hotGlueGun.jpg)
+
 
 ![(\#fig:digitalTuner)Clip-on tuner, [Image Source](http://www.snarktuners.com/products/original-clip-on)](img/tuner.png)
 
