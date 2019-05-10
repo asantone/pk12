@@ -19,10 +19,7 @@ The theme of 2019 MIT STEAM Camp is wind and perhaps an exploration of climate d
 ## Construction
 The paixiao will be constructed from three to five PVC components seen in Figure \@ref(fig:paixiaoConstruction). The length (L) of each pipe (A) is variable and determines the frequency of the emitted note. Each pipe is sealed with a small amount of hot glue (B) and a small coin (C). A small bead of hot glue (B) should be applied along the length of the joint between each pipe. The top of each pipe should be sanded smooth for comfort and level at the time of assembly. In other words, the mouthpiece of each pipe should be level with each of the neighboring pipes. 
 
-<div class="figure" style="text-align: center">
-<img src="img/paixiaoPVC_hotGlue.png" alt="PVC paixiao construction" width="50%" />
-<p class="caption">(\#fig:paixiaoConstruction)PVC paixiao construction</p>
-</div>
+![(\#fig:paixiaoConstruction)PVC paixiao construction](img/paixiaoPVC_hotGlue.png)
 
 Assembly steps:
 
