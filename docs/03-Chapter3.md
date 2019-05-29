@@ -22,16 +22,17 @@ Visualization is not the only method for understanding data, however. We may als
 As an example of a sonfication of climate data for popular consumption, listen to "134 Years of Global Temperature Change in 14 Seconds" by Nelson Guda (@threshold) for [Threshold] (https://nelsonguda.com/project/threshold/), a data art project about climate change. In this piece, "the piano notes are the annual temperature data from 1850-2015"," and "the orchestra plays chords made of the minimum, mean and maximum temperatures for eight year intervals over that time period." The data are sourced from the Berkeley Earth Data site (@tempData).
 
 
-TODO: expand
-https://power.larc.nasa.gov/
-https://climate.nasa.gov/evidence/
-https://www.ncdc.noaa.gov/cdo-web/
+## Additional resources
 
+Please see the "Data Presentation" in [Supplemental Documents] for some useful material that may help you get started.
 
-## Reading: Fire and Ice
-TODO: expand
-https://climate.nasa.gov/news/2631/wind-warm-water-revved-up-melting-antarctic-glaciers/
-https://climate.nasa.gov/news/2791/a-world-on-fire/
-https://climate.nasa.gov/news/2284/airborne-mission-to-focus-on-polar-winds/
+In addition, the following links may be helpful for further exploration of climate data:
+
+- [NASA Prediction of Worldwide Energy Resources](https://power.larc.nasa.gov/)
+- [NASA Global Climate Change](https://climate.nasa.gov/evidence/)
+- [NOAA Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/)
+- [NASA Feature: Wind, Warm Water Revved Up Melting Antarctic Glaciers](https://climate.nasa.gov/news/2631/wind-warm-water-revved-up-melting-antarctic-glaciers/)
+- [NASA Feature: A World on Fire](https://climate.nasa.gov/news/2791/a-world-on-fire/)
+- [NASA News: Airborne mission to focus on polar winds. Monroe Conner.](https://climate.nasa.gov/news/2284/airborne-mission-to-focus-on-polar-winds/)
 
 
