@@ -16,17 +16,14 @@ The following schedule assumes a 5-hour total delivery time with two sessions sp
 
 Table: (\#tab:unnamed-chunk-2)Suggested implementation timeline.
 
-Hour   Time    Activity                            
------  ------  ------------------------------------
-0      09:00   Data Exploration                    
-1      10:00   Construction                        
-2      11:00   Notation Exploration                
-2.5    11:30   Refinement (Construction, Notation) 
--      12:00   Lunch                               
-3      13:00   Composition                         
-4      14:00   Refinement (Composition)            
-4.5    14:30   Performances & Summary              
--      15:00   Conclusion                          
+Time    Day 1                     Day 2                                            
+------  ------------------------  -------------------------------------------------
+09:30   Welcome                   Welcome                                          
+09:35   Data Exploration          Notation & Composition                           
+10:15   Break                     Break                                            
+10:30   Guest Musician            Finalize Construction, Notation, and Composition 
+11:30   Instrument Construction   Performances & Summary                           
+12:00   Lunch                     Lunch                                            
 
 ## Facilitator Notes
 The following notes may help you in your role as a facilitator. 
